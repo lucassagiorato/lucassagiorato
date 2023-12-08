@@ -1,8 +1,19 @@
 Engenheiro de Controle e Automação formado pela Universidade Federal de Itajubá.
+
 Desenvolvedor backend.
 
-* Experiências com PHP, Slim Framework, Python, FastAPI, MSSQL e PostgreSQL
-* Desenvolvo uma ideia própria, que serve como ferramenta de estudo: a Sopa
+### Python
+* FastAPI
+
+### PHP
+* Slim Framework
+
+### Typescript
+* NestJS
+
+### Bancos de Dados
+* PostgreSQL
+* MSSQL
 
 <!---
 lucassagiorato/lucassagiorato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
