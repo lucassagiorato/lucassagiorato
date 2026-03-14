@@ -1,4 +1,7 @@
-Engenheiro de Controle e Automação formado pela Universidade Federal de Itajubá.
+UNIFEI - ECA
+P.A. Construshop LTDA
+SOPA
+SB Automotive
 
 <!---
 lucassagiorato/lucassagiorato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
