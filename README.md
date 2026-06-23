@@ -1,10 +1,17 @@
 ## Lucas Sagiorato
 
-Engenheiro de Computação e Automação formado pela UNIFEI. Trabalho como Desenvolvedor Full Stack na P.A. Construshop, onde construo ferramentas internas, ERPs e workflows de automação com IA. Nas horas vagas, toco projetos próprios e dou aulas particulares de Matemática e Física.
+Engenheiro de Controle e Automação formado pela UNIFEI. Trabalho como Desenvolvedor Full Stack na P.A. Construshop, onde construo ferramentas internas, ERPs e workflows de automação com IA. Nas horas vagas, toco projetos próprios e dou aulas particulares de Matemática e Física.
 
 **Backend**&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Slim](https://img.shields.io/badge/Slim-74a045?style=flat-square&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**&ensp;
