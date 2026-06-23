@@ -1,6 +1,6 @@
 ## Lucas Sagiorato
 
-Desenvolvedor Full Stack — construo ERPs, ferramentas internas e workflows de automação com IA.
+Engenheiro de Computação e Automação formado pela UNIFEI. Trabalho como Desenvolvedor Full Stack na P.A. Construshop, onde construo ferramentas internas, ERPs e workflows de automação com IA. Nas horas vagas, toco projetos próprios e dou aulas particulares de Matemática e Física.
 
 **Backend**&ensp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,4 +18,4 @@ Desenvolvedor Full Stack — construo ERPs, ferramentas internas e workflows de 
 
 ---
 
-P.A. Construshop &nbsp;·&nbsp; UNIFEI – ECA &nbsp;·&nbsp; SOPA &nbsp;·&nbsp; SB Automotive
+P.A. Construshop &nbsp;·&nbsp; SOPA &nbsp;·&nbsp; SB Automotive &nbsp;·&nbsp; UNIFEI – ECA
